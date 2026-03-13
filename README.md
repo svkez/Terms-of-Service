@@ -41,7 +41,7 @@ The bot does not sell or share your data with third parties.
 
 4️⃣ Privacy
 
-For more information about how your data is used, see the Privacy Policy: [YOUR PRIVACY POLICY URL]
+For more information about how your data is used, see the Privacy Policy
 
 5️⃣ Intellectual Property
 
